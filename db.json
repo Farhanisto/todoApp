@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "name": "learn redux ",
+      "isComplete": true,
+      "id": 1
+    },
+    {
+      "name": "hello",
+      "isComplete": false,
+      "id": 2
+    },
+    {
+      "name": "dsaf",
+      "isComplete": true,
+      "id": 3
+    },
+    {
+      "name": "jjj",
+      "isComplete": false,
+      "id": 4
+    },
+    {
+      "name": "nnnn",
+      "isComplete": false,
+      "id": 5
+    },
+    {
+      "name": "c",
+      "isComplete": true,
+      "id": 6
+    },
+    {
+      "name": "dsafas",
+      "isComplete": false,
+      "id": 7
+    }
+  ]
+}
